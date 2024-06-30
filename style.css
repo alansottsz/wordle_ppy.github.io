@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Cambria");
 body {
-    background-image: url(imag.jpg);
+    background-image: url("imag.jpg");
     font-family: Cambria,sans-serif;
     background-size:auto;
 }
